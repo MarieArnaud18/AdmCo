@@ -12,3 +12,4 @@ def divide(a,b):
 
 
 print (sum(2,3))
+print (substract(7,3))
